@@ -1240,7 +1240,7 @@ nav li:first-child:hover a {
 /* Contact */
 .contact-container {
     margin-top: 80px;
-    background-image: url('/Images/bg-office.jpeg');
+    background-image: url('./Images/bg-office.jpeg');
     background-size: cover;
     height: 100%;
 }
